@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Lee Davey",
+            "title": "Freak golf cart accident rules Australia star out of England World Cup clash...",
+            "description": "Glenn Maxwell has suffered a second freak injury in less than a year which will rule him out of Australia’s Cricket World Cup match against England. The 35-year-old suffered a concussion and facial…",
+            "url": "https://talksport.com/sport/1624828/golf-cart-accident-glenn-maxwell-australia-england-world-cup/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/10/odi-match-australia-new-zealand-855560151.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2023-11-01T13:15:33Z",
+            "content": "Glenn Maxwell has suffered a second freak injury in less than a year which will rule him out of Australias Cricket World Cup match against England.\r\nThe 35-year-old suffered a concussion and facial b… [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Willey to retire from England duty after World Cup",
+            "description": "England bowler David Willey will retire from international cricket at the end of the World Cup aged 33.",
+            "url": "http://www.bbc.co.uk/sport/cricket/67276218",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2023-11-01T08:22:20.5638529Z",
+            "content": "England bowler David Willey will retire from international cricket at the end of the World Cup.\r\nThe 33-year-old has played in England's past three matches in India, taking five wickets and scoring 3… [+744 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "World Cup: New Zealand v South Africa - clips, radio & text",
+            "description": "Follow live text, in-play video clips and radio commentary as New Zealand play South Africa in the Men's Cricket World Cup 2023.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/66858822",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-11-01T08:22:20.0639769Z",
+            "content": "New Zealand captain Tom Latham: \"It looks a reasonably good surface with the potential for some dew later on. Hopefully that might play into our favour.\r\n\"We've had a few niggles so one change from t… [+429 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kevin Hand",
+            "title": "LIVE: New Zealand vs South Africa – ICC Cricket World Cup 2023",
+            "description": "Follow our live updates from the ICC Cricket World Cup match between New Zealand and South Africa in Pune.",
+            "url": "http://www.aljazeera.com/sports/liveblog/2023/11/1/live-match-new-zealand-vs-south-africa-icc-cricket-world-cup-2023",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/AP23305324603630-1698829476-1.jpg?resize=1200%2C630&quality=80",
+            "publishedAt": "2023-11-01T06:31:51Z",
+            "content": "blinking-dot\r\nLive MatchLive Match, \r\nFollow our live updates from the ICC Cricket World Cup match between New Zealand and South Africa at the MCA Stadium in Pune."
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
