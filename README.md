@@ -1,0 +1,1 @@
+This is a simple React.js project which uses API to fetch news and updates you with latest happenings around the world. This is a simple news app which includes news categories, which you can read of your choice.
