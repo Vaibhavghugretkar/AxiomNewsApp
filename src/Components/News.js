@@ -49,7 +49,8 @@ useEffect(() => {
 // }
 
 const fetchMoreData=async()=>{
-  const url =`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=0c68f6d51c29468e90f7156376935eab&page=${page+1}&pageSize=${props.pageSize}`
+  // const url =`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=0c68f6d51c29468e90f7156376935eab&page=${page+1}&pageSize=${props.pageSize}`
+  const url =`https://newsapi.org/v2/top-headlines?country=us&apiKey=0c68f6d51c29468e90f7156376935eab`
   setPage(page+1)
   let data=await fetch(url);
   let parsedData=await data.json()
