@@ -14,9 +14,10 @@ const  [totalResults, setTotalResults] = useState(0);
 const capFirstLetter=(string)=>{
 return string.charAt(0).toUpperCase()+string.slice(1);
 }
- 
+
 const updateNews=async()=>{
   props.setProgress(10);
+  // const url=process.envREACT_APP_APIKEY
   const url =
       `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=0c68f6d51c29468e90f7156376935eab&page=${page}&pageSize=${props.pageSize}`
       setLoading(true)
