@@ -32,6 +32,7 @@ const App = () => {
       <Router>
         <Navbar mode={mode} toggleMode={toggleMode} />
         <Routes>
+        <Route path="/axiomnewsapp" element={<News setProgress={setProgress} Apikey={ApiKey} pageSize={9} country="in" category="general" />} />
         <Route path="/" element={<News setProgress={setProgress} Apikey={ApiKey} pageSize={9} country="in" category="general" />} />
             <Route path="/business" element={<News setProgress={setProgress} Apikey={ApiKey} pageSize={9} country="in" category="business" />} />
             <Route path="/entertainment" element={<News setProgress={setProgress} Apikey={ApiKey} pageSize={9} country="in" category="entertainment" />} />

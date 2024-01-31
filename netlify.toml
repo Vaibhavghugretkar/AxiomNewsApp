@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/newsProxy"
-  status = 200
+  to = "/index.html"
+  status = 301
   force = true
