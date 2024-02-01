@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/axiomnewsapp/static/css/main.576326ca.css",
-    "main.js": "/axiomnewsapp/static/js/main.3c7ad79b.js",
+    "main.js": "/axiomnewsapp/static/js/main.e27d0521.js",
     "static/js/787.4c026eef.chunk.js": "/axiomnewsapp/static/js/787.4c026eef.chunk.js",
     "static/media/loading.gif": "/axiomnewsapp/static/media/loading.0c2c2a5614a486b4f6e0.gif",
     "index.html": "/axiomnewsapp/index.html",
     "main.576326ca.css.map": "/axiomnewsapp/static/css/main.576326ca.css.map",
-    "main.3c7ad79b.js.map": "/axiomnewsapp/static/js/main.3c7ad79b.js.map",
+    "main.e27d0521.js.map": "/axiomnewsapp/static/js/main.e27d0521.js.map",
     "787.4c026eef.chunk.js.map": "/axiomnewsapp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.576326ca.css",
-    "static/js/main.3c7ad79b.js"
+    "static/js/main.e27d0521.js"
   ]
 }
