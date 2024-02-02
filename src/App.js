@@ -24,7 +24,8 @@ const App = () => {
     setMode((prevMode) => (prevMode === 'dark' ? 'light' : 'dark'));
   };
 
-  const ApiKey = '0c68f6d51c29468e90f7156376935eab';
+  const ApiKey = process.env.REACT_APP_APIKEY;
+
 
   return (
     <div>
